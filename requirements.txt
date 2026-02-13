@@ -1,0 +1,4 @@
+PyQt6>=6.10
+Pillow>=12.0
+requests>=2.31
+xai-sdk>=1.6
